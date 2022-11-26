@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <h2>Repos</h2>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=onedark">    <img  alt="yanruc123's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yanruc123?cardType=octocat&theme=onedark" />  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=onedark">    <img  alt="yanruc123's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yanruc123?cardType=octocat&theme=onedark" />  </a> 
