@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h2>Language</h2>
 
 <a href="https://github.com/yanruc123/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-ten-omega-36.vercel.app/api/top-langs/?username=yanruc123&layout=compact" />
+  <img align="center" src="https://github-readme-stats-ten-omega-36.vercel.app/api/top-langs/?username=yanruc123&layout=compact&count-private=true" />
 </a>
 
 <h2>Repos</h2>
