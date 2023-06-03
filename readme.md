@@ -8,11 +8,11 @@ yanruc123/yanruc123 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2>Language</h2>
+<!-- <h2>Language</h2>
 
 <a href="https://github.com/yanruc123/github-readme-stats">
   <img align="center" src="https://github-readme-stats-ten-omega-36.vercel.app/api/top-langs/?username=yanruc123&layout=compact&count-private=true" />
-</a>
+</a> -->
 
 <h2>Repos</h2>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=onedark">    <img  alt="yanruc123's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yanruc123?cardType=octocat&theme=onedark" />  </a> 
