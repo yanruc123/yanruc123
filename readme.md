@@ -1,4 +1,4 @@
-![image](https://github.com/yanruc123/yanruc123/assets/47041483/5c17ae64-b011-4ea0-856b-db482116d8b5)# Hello, I'm Yanru Chen! 👋
+# Hello, I'm Yanru Chen! 👋
 
 As a Computer Science graduate from Columbia University with a specialization in Machine Learning, I'm driven by my passion for developing innovative solutions and exploring the intersection of technology and society. Currently, I'm applying my skills as an Independent Software Developer to build a productivity application called "MindMentor". I'm always excited about new opportunities to apply my skills and grow professionally. If you're looking for a dedicated and innovative developer to join your team, don't hesitate to reach out!
 
