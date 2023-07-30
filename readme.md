@@ -14,9 +14,9 @@ As a Computer Science graduate from Columbia University with a specialization in
 - **Machine Learning Tools**: PyTorch, TensorFlow, OpenCV, Scikit-Learn
 - **Cloud Computing**: Google Cloud, Digital Ocean (Linux server system), Docker
 
-## 👩‍💻 Most Recent Developing Experience
+## 👩‍💻 Experience
 
-I've had the opportunity to work in a variety of roles, each of which has contributed to my growth as a developer and researcher. Here's a brief overview of my experiences:
+I've had the opportunity to work in a variety of roles, each of which has contributed to my growth as a developer and researcher. Here's a brief overview of my most recent experiences:
 
 - **Independent Software Developer** (Present): Currently, I'm independently developing "MindMentor", a productivity application. I've completed over 90% of the intricate coding and features within a 4-month timeframe, utilizing technologies such as React Native, Firebase, and SQLite.
 
