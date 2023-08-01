@@ -12,7 +12,7 @@ As a Computer Science graduate from Columbia University with a specialization in
 - **Programming Languages**: Python, JavaScript, R, C/C++, C#, Java, HTML5 & CSS, SQL, SQLite
 - **Application Development**: Flutter, React Native, Jupyter, Anaconda, Node.js, Spark
 - **Machine Learning Tools**: PyTorch, TensorFlow, OpenCV, Scikit-Learn
-- **Cloud Computing**: Google Cloud, Digital Ocean (Linux server system), Docker
+- **Cloud Computing**: Google Cloud, Digital Ocean (Linux server system), Docker, AWS
 
 ## 👩‍💻 Experience
 
